@@ -46,7 +46,7 @@ I presenti Termini sono regolati dalla legge italiana. Per qualsiasi controversi
 Per domande, segnalazioni o richieste di supporto:
 
 - **Email:** [jeckdev82@gmail.com](mailto:jeckdev82@gmail.com)
-- **GitHub:** [https://github.com/giacomo/MyPiggyBank](https://github.com/giacomo/MyPiggyBank)
+
 
 ---
 
