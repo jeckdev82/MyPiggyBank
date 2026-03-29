@@ -36,7 +36,7 @@ Eventuali aggiornamenti a questa Privacy Policy saranno pubblicati in questa pag
 Per domande sulla privacy, segnalazioni o richieste di supporto:
 
 - **Email:** [jeckdev82@gmail.com](mailto:jeckdev82@gmail.com)
-- **GitHub:** [https://github.com/giacomo/MyPiggyBank](https://github.com/giacomo/MyPiggyBank)
+
 
 ---
 
