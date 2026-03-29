@@ -4,13 +4,13 @@
 
 ## 1. Panoramica
 
-My Piggy Bank è un'app per il risparmio personale sviluppata e distribuita da Giacomo. Questa Privacy Policy descrive come vengono trattati i dati degli utenti.
+My Piggy Bank è un'app per il risparmio personale . Questa Privacy Policy descrive come vengono trattati i dati degli utenti.
 
 ## 2. Dati raccolti e archiviazione
 
 **My Piggy Bank non raccoglie, trasmette né condivide dati personali.**
 
-Tutti i dati inseriti nell'app (nome del salvadanaio, importi, obiettivi, transazioni) sono archiviati **esclusivamente sul dispositivo dell'utente** tramite SwiftData e, se attivo, sincronizzati tramite **iCloud** dell'utente stesso. In nessun caso questi dati vengono inviati a server di terze parti.
+Tutti i dati inseriti nell'app (nome del salvadanaio, importi, obiettivi, transazioni) sono archiviati **esclusivamente sul dispositivo dell'utente** tramite SwiftData. In nessun caso questi dati vengono inviati a server di terze parti.
 
 ## 3. Acquisti in-app (RevenueCat)
 
