@@ -46,7 +46,6 @@ These Terms are governed by Italian law. Any disputes shall be subject to the ju
 For questions, bug reports, or support requests:
 
 - **Email:** [jeckdev82@gmail.com](mailto:jeckdev82@gmail.com)
-- **GitHub:** [https://github.com/giacomo/MyPiggyBank](https://github.com/giacomo/MyPiggyBank)
 
 ---
 
