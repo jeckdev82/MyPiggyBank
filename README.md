@@ -16,8 +16,8 @@ Create virtual piggy banks, set a target amount, and watch your savings grow —
 
 ## Requirements
 
-- iOS 17.0 or later
-- iPhone and iPad supported
+- iOS 26,2 or later
+- iPhone 
 
 ## Privacy
 
